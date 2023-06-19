@@ -4,7 +4,7 @@
   
   <p dir="auto">Downloads Now</p>
   <a href='https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe ' class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-    <pre>  https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe </pre></a>
+    <pre> <code> https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe </code> </pre></a>
     
   <p dir="auto">License Key</p>
   <div class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
