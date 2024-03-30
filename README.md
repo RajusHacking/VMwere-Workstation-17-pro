@@ -4,7 +4,7 @@
 
 <a href="https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe">Download for Windows</a>
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
-    <pre> <code> https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe </code> </pre></p>
+    <pre> <code>https://download3.vmware.com/software/WKST-1700-WIN/VMware-workstation-full-17.0.0-20800274.exe</code> </pre></p>
 
 <a href="https://www.vmware.com/go/getworkstation-linux">Download for Linux </a>
   <p class="highlight highlight-source-shell notranslate position-relative overflow-auto" dir="auto">
